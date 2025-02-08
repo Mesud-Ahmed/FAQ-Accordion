@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 
-- Live Site URL: [Add live site URL here](https://faq-accordion-tan-nine.vercel.app/)
+- Live Site URL: [FAQ-Acordion](https://faq-accordion-tan-nine.vercel.app/)
 
 
 ### Built with
