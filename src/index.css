@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: 'WorkSans-Bold';
+    src: url('./assets/fonts/static/WorkSans-Bold.ttf');
+}
+
+@font-face {
+    font-family: 'WorkSans-Italic';
+    src: url('./assets/fonts/WorkSans-VariableFont_wght.ttf');
+}
+
+.bg-image {
+    background-image: url('./assets/images/background-pattern-desktop.svg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
